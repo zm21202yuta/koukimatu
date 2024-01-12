@@ -34,3 +34,9 @@ footer {
 body {
   background-image: url(b100.jpg);
 }
+/* imgの設定 */
+img {
+  display: block;
+  margin: 0 auto;
+  width: 500px;
+}
