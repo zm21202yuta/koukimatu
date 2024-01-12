@@ -5,11 +5,11 @@ header {
   margin: 0 auto;
   text-align: center;
   background-color: #000000;
-  font-color: #CCFFFF;
+  font-color: #FFFFFF;
 }
 header .headline {
   font-size: 50px;
-  font-color: white;
+  font-color: #FFFFFF;
 }
 .nav-list {
   text-align: center;
@@ -28,7 +28,7 @@ footer {
   margin: 0 auto;
   text-align: center;
   background-color: #000000;
-  font-color: #CCFFFF;
+  font-color: #FFFFFF;
 }
 /*bodyの設定  */
 body {
