@@ -41,15 +41,13 @@ img {
   width: 200px;
 }
 /*ボタンの設定  */
-.btn1 {
-  text-aling: center;
-}
 button {
   width: 50%;
   height: 50px;
   font-size: 20px;
   font-weight: bold;
   cursor: pointer;
+  
 }
 button:hover {
   opacity: 0.7;
@@ -57,8 +55,4 @@ button:hover {
 .hidden {
   display: none;
 }
-#btn2-text {
-  margin: 16px 0;
-  font-size: 15px;
-  color: #FFFFFF;
-}
+
