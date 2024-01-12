@@ -4,11 +4,12 @@ header {
   padding: 15px 0;
   margin: 0 auto;
   text-align: center;
-  background-color: #555555;
-  font-color: #A16EFF;
+  background-color: #000000;
+  font-color: #CCFFFF;
 }
 header .headline {
   font-size: 50px;
+  font-color: white;
 }
 .nav-list {
   text-align: center;
@@ -26,6 +27,6 @@ footer {
   padding: 15px 0;
   margin: 0 auto;
   text-align: center;
-  background-color: #555555;
-  font-color: #A16EFF;
+  background-color: #000000;
+  font-color: #CCFFFF;
 }
