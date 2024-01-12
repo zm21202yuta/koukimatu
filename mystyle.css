@@ -30,3 +30,7 @@ footer {
   background-color: #000000;
   font-color: #CCFFFF;
 }
+/*bodyの設定  */
+body{
+  background-image: url(b100.jpg);
+}
