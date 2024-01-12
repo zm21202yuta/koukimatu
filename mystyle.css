@@ -4,6 +4,7 @@ header {
   padding: 15px 0;
   margin: 0 auto;
   text-align: center;
+  background-color: #770000;
 }
 header .headline {
   font-size: 50px;
@@ -24,10 +25,11 @@ footer {
   padding: 15px 0;
   margin: 0 auto;
   text-align: center;
+  background-color: #770000;
 }
 /*bodyの設定  */
 body {
-  background-image: url(b100.jpg);
+  background-color: #007700;
 }
 /* imgの設定 */
 img {
@@ -45,6 +47,7 @@ button {
   font-size: 18px;
   font-weight: bold;
   cursor: pointer;
+  background-color: #FFFF66;
 }
 button:hover {
  opacity: 0.7;
